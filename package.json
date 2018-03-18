@@ -1,7 +1,7 @@
 {
   "name": "react-firebase-firestore",
-  "version": "1.0.0",
-  "description": "a connection library for react and firebase",
+  "version": "0.0.1",
+  "description": "a connection library for react and firebase firestore",
   "author": "sw-yx",
   "license": "MIT",
   "repository": "sw-yx/react-firebase-firestore",
