@@ -1,0 +1,1 @@
+this is a temporary measure as i build out react-firebase functionality to include firestore. this will eventually be PR'ed into the main repo.
