@@ -14,6 +14,10 @@ The full API of Firestore is available to you in a `ref` variable, so you will h
 
 ```bash
 npm install --save react-firebase-firestore
+# or
+yarn add react-firebase-firestore
+# if needed
+yarn add react-firebase firebase
 ```
 
 ## Usage
